@@ -8,5 +8,4 @@ int main(){
         std::cin>>text;
         std::cout<<text<<std::endl;
     }
-    
 }
