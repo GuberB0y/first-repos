@@ -1,11 +1,13 @@
 #include <iostream>
 #include <string>
 
+using namespace std;
+
 int main(){
-    std::string text;
+    string text;
     while (true)
     {
-        std::cin>>text;
-        std::cout<<text<<std::endl;
+        cin>>text;
+        cout<<text<< " " <<endl;
     }
 }
